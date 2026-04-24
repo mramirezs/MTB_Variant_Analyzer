@@ -41,7 +41,3 @@ Ver `docs/guides/` para guías detalladas de uso.
 - ✅ Análisis MDR/XDR automático
 - ✅ Reportes HTML interactivos
 - ✅ Pipeline modular y escalable
-
-## 📞 Contacto
-
-**DiverSeq Labs** - research@diverseq.org
