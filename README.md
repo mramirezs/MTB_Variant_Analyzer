@@ -2,8 +2,6 @@
 
 **Análisis automatizado de variantes de resistencia en *Mycobacterium tuberculosis***
 
-DiverSeq Labs | Universidad Nacional Mayor de San Marcos (UNMSM) | Lima, Perú
-
 ## 🎯 Descripción
 
 Pipeline bioinformático modular para análisis de mutaciones de resistencia en proteínas MTB, con enfoque en pncA (NP_216559.1) y pknG (NP_214924.1).
